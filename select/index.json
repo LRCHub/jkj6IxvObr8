@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Retrofuture",
+  "base_artist": "Edel Note",
+  "createdAt": "2026-01-02T15:55:04.001739Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Retrofuture",
+      "artist": "Edel Note",
+      "has_synced": false,
+      "path": "select/01_Retrofuture_Edel_Note.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Retrofuture",
+      "artist": "Edel Note",
+      "has_synced": false,
+      "path": "select/pl_01_Retrofuture_Edel_Note.txt"
+    }
+  ]
+}
